@@ -1,22 +1,24 @@
 # IqOptionAPI
 ### ━━━━━━━━━━ **como instalar** ━━━━━━━━━━
 
-### 1. extrae iqoptionapiFixed.zip
+### 1. isntala python 3.11.2
+**Activa Add Python.exe to PATH Durante la instalacion**
+### 2. extrae iqoptionapiFixed.zip
 
-### 2. entra en la carpeta iqoptionapiFixed
+### 3. entra en la carpeta iqoptionapiFixed
 
-### 3. abre el cmd con la ruta de acceso de iqoptionapiFixed
+### 4. abre el cmd con la ruta de acceso de iqoptionapiFixed
 
-### 4. en el cmd escribe:
+### 5. en el cmd escribe:
 ~~~
 pip install websocket-client==1.5.1
 ~~~
-### 5. y también:
+### 6. y también:
 ~~~
 pip install websocket-client==0.56.0
 ~~~
 
-### 6. luego con un cmd en la capeta de iqoptionapiFixed ejecute este comando: 
+### 7. luego con un cmd en la capeta de iqoptionapiFixed ejecute este comando: 
 ~~~
 python setup.py install
 ~~~

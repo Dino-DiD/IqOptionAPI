@@ -24,3 +24,7 @@ python setup.py install
 ~~~
 
 ### Y listo ya esta instalada la api de iq option
+
+
+# video de como instalar
+[![video de como instalar en YouTube](https://img.youtube.com/vi/KcLF2Dh5-3I/0.jpg)](https://youtu.be/KcLF2Dh5-3I)

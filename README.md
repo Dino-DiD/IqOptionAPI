@@ -1,7 +1,7 @@
 # IqOptionAPI
 ### ━━━━━━━━━━ **como instalar** ━━━━━━━━━━
 
-### 1. isntala python 3.11.2
+### 1. instala python 3.11.2
 **Activa Add Python.exe to PATH Durante la instalacion**
 ### 2. extrae iqoptionapiFixed.zip
 
